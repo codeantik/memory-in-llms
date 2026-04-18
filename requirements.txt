@@ -1,0 +1,7 @@
+
+langchain
+langchain-openai
+langgraph
+dotenv
+langgraph-checkpoint-postgres
+psycopg[binary,pool]
